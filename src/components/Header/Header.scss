@@ -1,0 +1,9 @@
+.header {
+    @apply bg-slate-300;
+    & ul {
+        @apply flex gap-x-4 items-center justify-center;
+        & li {
+            @apply text-base text-red-500;
+        }
+    }
+}
