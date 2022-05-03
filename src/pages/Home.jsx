@@ -5,6 +5,7 @@ const Home = () => {
         <div>
             Welcome to Home!
             Update 1!
+            Update 2!
         </div>
     );
 };
