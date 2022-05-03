@@ -1,0 +1,5 @@
+:root {
+    --width-big: 100vw;
+    --container-w: 800px;
+    --result-w: calc(var(--width-big) - var(--container-w))
+}

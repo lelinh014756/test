@@ -6,4 +6,5 @@
             @apply text-base text-red-500;
         }
     }
+    width: calc($w-full - $container);
 }
